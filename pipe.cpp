@@ -1,7 +1,5 @@
 #include <Windows.h>
 #include <Shlwapi.h>
-#include <stdlib.h>
-#include <string.h>
 
 #ifdef DEBUG
 #include <stdio.h>	// DEBUG
